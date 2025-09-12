@@ -5,7 +5,7 @@
 - ⚡ Работа с браузерными инструментами и консолью
 - 🛠 Git, GitHub
 
-
+## Статистика
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topqwi9416&layout=compact&theme=dark)
 
 ## Контакты
