@@ -8,4 +8,3 @@
 - ✉️ topshik16@gmail.com
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topqwi9416&layout=compact&theme=dark)
-![Metrics](./github-metrics.svg)
